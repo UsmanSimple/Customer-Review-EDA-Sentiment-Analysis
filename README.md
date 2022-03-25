@@ -6,16 +6,16 @@ This is a project to better understand and build proficiency on Natural Language
 <p>The dataset is a collection of 23486 Rows and 10 column variables that constitutes the review of Women's Clothings E-commerce Reviews. Each row includes a written comment as well as additional customer information. Also each row corresponds to a customer review, and includes the variables: </p>
 
 
-Clothing ID: Integer Categorical variable that refers to the specific piece being reviewed.
-Age: Positive Integer variable of the reviewers age.
-Title: String variable for the title of the review.
-Review Text: String variable for the review body.
-Rating: Positive Ordinal Integer variable for the product score granted by the customer from 1 Worst, to 5 Best.
-Recommended IND: Binary variable stating where the customer recommends the product where 1 is recommended, 0 is not recommended.
-Positive Feedback Count: Positive Integer documenting the number of other customers who found this review positive.
-Division Name: Categorical name of the product high level division.
-Department Name: Categorical name of the product department name.
-Class Name: Categorical name of the product class name.
+<p> Clothing ID: Integer Categorical variable that refers to the specific piece being reviewed</p>.
+<p> Age: Positive Integer variable of the reviewers age. </p>
+<p> Title: String variable for the title of the review.</p>
+<p> Review Text: String variable for the review body.</p>
+<p> Rating: Positive Ordinal Integer variable for the product score granted by the customer from 1 Worst, to 5 Best.</p>
+<p> Recommended IND: Binary variable stating where the customer recommends the product where 1 is recommended, 0 is not recommended.</p>
+<p> Positive Feedback Count: Positive Integer documenting the number of other customers who found this review positive.</p>
+<p> Division Name: Categorical name of the product high level division.</p>
+<p> Department Name: Categorical name of the product department name.</p>
+<p> Class Name: Categorical name of the product class name.</p>
 
 
 
